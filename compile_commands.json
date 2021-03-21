@@ -1,0 +1,14 @@
+[
+ {
+  "directory": "C:\\Users\\Qiang\\Desktop\\Breakout",
+  "arguments": [
+   "g++",
+   "-Iinclude",
+   "game.cpp",
+   "-lsfml-graphics",
+   "-lsfml-window",
+   "-lsfml-system"
+  ],
+  "file": "game.cpp"
+ }
+]
